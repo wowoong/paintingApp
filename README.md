@@ -1,2 +1,3 @@
 # paintingApp
- paintingApp
+ painting App
+ JS study
