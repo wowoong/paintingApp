@@ -1,2 +1,2 @@
 # paintingApp
- JS study  
+HTML, Css, JS study  
